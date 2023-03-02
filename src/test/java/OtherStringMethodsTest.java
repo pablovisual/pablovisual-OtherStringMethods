@@ -10,7 +10,7 @@ public class OtherStringMethodsTest {
         osm = new OtherStringMethods();
     }
 
-    /**
+    /*
      * the substring of "banana", starting at 0 inclusive and ending at 3 exclusive, is "ban".
      */
     @Test
